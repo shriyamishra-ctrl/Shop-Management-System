@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1751361584 source:c:\users\shriya\downloads\shopping ds projet\shopping.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<bits/stdc++.h>
+	<windows.h>
+	"queue1.h"
+	"animation.h"
+	"stackme.h"
+
+1751361246 c:\users\shriya\downloads\shopping ds projet\queue1.h
+	<iostream>
+	<conio.h>
+	<bits/stdc++.h>
+
+1751361246 c:\users\shriya\downloads\shopping ds projet\animation.h
+	<iostream>
+
+1751361246 c:\users\shriya\downloads\shopping ds projet\stackme.h
+	<bits/stdc++.h>
+
