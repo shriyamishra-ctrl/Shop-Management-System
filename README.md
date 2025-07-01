@@ -64,10 +64,12 @@ Adding some products,
 
 ![Screenshot 2025-07-01 150107](https://github.com/user-attachments/assets/7deceb71-cd7a-449a-87dd-bbf91cc2692e)
 ![Screenshot 2025-07-01 150131](https://github.com/user-attachments/assets/f666d7f6-0918-4474-9058-03cc808dbdcb)
+
 Displaying them,
 
 ![Screenshot 2025-07-01 150217](https://github.com/user-attachments/assets/ae79dc56-4f51-495e-a916-015477ee10d1)
 ![Screenshot 2025-07-01 150235](https://github.com/user-attachments/assets/2ffa3d1b-38a4-4e80-8fca-889adb28c983)
+
 Modifying them,
 
 ![Screenshot 2025-07-01 150307](https://github.com/user-attachments/assets/2920dbf9-7f68-4317-84e3-28264d5cb643)
@@ -86,15 +88,19 @@ Displaying the remained items,
 Going to customer section, 
 
 ![Screenshot 2025-07-01 150701](https://github.com/user-attachments/assets/0cfa833e-d127-47be-826c-1da9d8c1c433)
+
 Register or Login to your account,
 
 ![Screenshot 2025-07-01 150801](https://github.com/user-attachments/assets/497f4eb8-17a6-4450-a7c1-64e40dcb2253)
+
 A trolly is assigned, 
 
 ![Screenshot 2025-07-01 150852](https://github.com/user-attachments/assets/004cf64c-e64a-493b-bf43-34444c9f887b)
+
 Entering the details of the items a customer want to buy, 
 
 ![Screenshot 2025-07-01 151055](https://github.com/user-attachments/assets/a2da8ada-b451-49d5-bf72-a481707cfb1a)
+
 Bill is ordered with 10% discount to all the customers,
 
 ![Screenshot 2025-07-01 151127](https://github.com/user-attachments/assets/e28a6e11-f71b-4238-89a9-dba6dfcf10c0)
